@@ -1,8 +1,6 @@
 # Smart Currency Converter
 
-![](/docs/images/front.png)
 <img src="/docs/images/front.png" alt="Front image" width="600">
-
 
 Smart Currency Converter is a user-friendly application designed to convert currency values between multiple currency types. This app allows users to quickly and accurately convert between various currencies using real-time exchange rates.
 
